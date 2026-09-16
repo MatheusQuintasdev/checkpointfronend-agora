@@ -1,6 +1,8 @@
 Checkpoint de Front End feito por:
  João Arthur Maia Almeida - RM 573458
+
  Matheus Nogueira Quintas - RM 572542
+ 
  Guilherme Ribeiro Matias - RM 573890
 
 
