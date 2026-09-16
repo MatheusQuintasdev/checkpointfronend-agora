@@ -12,4 +12,4 @@ instale as dependencias
 npm install
 npm run dev
 
-Link do vercel:
+Link do vercel: checkpointfronend-agora-j7tx590sy.vercel.app 
